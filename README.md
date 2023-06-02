@@ -2,7 +2,7 @@
 
 ## _The Last Social Network, Ever_
 
-## For deployment was used Docker.
+## For deployment using Docker.
 
 ## Features
 
