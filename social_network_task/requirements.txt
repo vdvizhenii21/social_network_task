@@ -1,0 +1,12 @@
+Django
+django-environ
+django-filter
+django-templated-mail
+djangorestframework
+djangorestframework-simplejwt
+djoser
+drf-extra-fields
+flake8
+gunicorn
+psycopg2-binary
+six
