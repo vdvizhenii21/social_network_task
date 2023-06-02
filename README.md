@@ -52,7 +52,8 @@ In this example we make unlike to post with id 1.
 - user activity an endpoint which will show when user was login last time and when he mades a last request to the service.
 
 GET request with id user we can see user activity.
-
-[a link](http://localhost/users/usersactivity/1/)
+```sh
+http://localhost/users/usersactivity/1/
+```
 
 
