@@ -13,7 +13,7 @@ Send POST request with required fields:
  - email
  - username
  - password
- - password
+
 ```sh
 http://localhost/users/auth/users/
 ```
